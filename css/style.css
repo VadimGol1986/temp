@@ -3,6 +3,7 @@
   margin: 0 auto;
   color: rgb(32, 31, 94);
   font-family: "Golos Text";
+  padding: 10px;
 }
 
 .looking-for__block {
@@ -28,18 +29,21 @@
   font-size: 26px;
   color: rgb(168, 46, 46);
   font-weight: 700;
+  padding: 0 5px;
 }
 
 .second-p {
   font-size: 26px;
   color: rgb(66, 110, 175);
   font-weight: 700;
+  padding: 0 5px;
 }
 
 .third-p {
   font-size: 26px;
   color: rgb(58, 57, 57);
   font-weight: 700;
+  padding: 0 5px;
 }
 
 .picture {
